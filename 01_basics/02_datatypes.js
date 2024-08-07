@@ -14,3 +14,4 @@
 
 //object
 console.log(typeof undefined);
+//
